@@ -1,0 +1,27 @@
+# Hidden Directories #
+######################
+.history
+.idea
+.vscode
+.vagrant
+.env
+/laradock/*
+/laradock/docker-compose.yml
+README.txt
+
+# Laravel #
+######################
+/app/composer.lock
+/app/public/images/*
+/app/public/fonts/*
+/app/public/css/*
+/app/public/js/*
+/app/node_modules
+/app/public/hot
+/app/public/storage
+/app/storage/*.key
+/app/vendor
+/app/public/storage/*
+/app/storage/*
+/app/public/mix-manifest.json
+/app/public/vendor/*
