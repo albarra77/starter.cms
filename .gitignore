@@ -22,6 +22,6 @@ README.txt
 /app/storage/*.key
 /app/vendor
 /app/public/storage/*
-/app/storage/*
+/app/storage/logs/*
 /app/public/mix-manifest.json
 /app/public/vendor/*
